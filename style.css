@@ -1,0 +1,21 @@
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: left;
+  }
+.thumnail01{
+    border-radius: 9px;
+}
+.thumnail03{
+    border-radius: 50%;
+}
+input{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-left: 12px;
+    margin-right: 12px;
+   
+    border-radius: 20px;
+
+}
